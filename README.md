@@ -1,1 +1,1 @@
-# Adiabatic-Oracle-For-Grovers-Algrithm
+# Adiabatic-Oracle-For-Grovers-Algorithm
